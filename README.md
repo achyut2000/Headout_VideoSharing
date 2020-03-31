@@ -20,3 +20,9 @@ While developing the frontpage , I would like to mix the approach of a new upcom
 
 Since I am going for a *Single Page* Demonstration , I would like to fit Tiktok's Landing Page with that of some Trending videos. I will explain the flow of my Design as and when possible.
 
+The First View for the user asks him to explore / Join the Network if he scrolls down it means that he didnt buy it , so the next step is the show him some of the hottest video and pursuade him to explore more thats what the first page is for.
+
+![alt text](https://raw.githubusercontent.com/achyut2000/Headout_VideoSharing/master/ShareVeo.jpg)
+
+
+
