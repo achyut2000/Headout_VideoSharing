@@ -1,8 +1,9 @@
 
 .main {
     position: relative;
+    top:-10vh;
     background: linear-gradient(180deg, #9009CF 0%, #000000 100%);
-    min-height: 100vh;
+    min-height: 110vh;
     display: flex;
     flex-direction: column;
     align-items: center;

@@ -8,9 +8,7 @@ function Landing(){
             <nav class="fixed-top navbar-transparent navbar navbar-expand-lg bg-info">
                 <div class="container">
                     <div class="navbar-translate">SHAREVEO</div>
-                    <div clas="justify-content-end collapse navbar-collapse">
-                        
-                    </div>
+                    <div clas="justify-content-end collapse navbar-collapse"></div>
                 </div>
             </nav>
             <div class="page-header">

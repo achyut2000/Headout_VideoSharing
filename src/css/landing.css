@@ -61,6 +61,7 @@
     padding-top: 20px!important;
 }
 
+
 .collapse:not(.show) {
     display: none;
 }

@@ -9,10 +9,11 @@ export class Carousal extends React.Component{
 
     render(){
         return(
+          <div class="carousel">
+            <div class="carousel-header">
+                <span> EXPLORE </span>
+            </div>
             <div class="carousel-wrapper">
-                <div class="carousel-header">
-                    <span>EXPLORE</span>
-                </div>
                  <div class="item">
                     <video class="videoInsert" controls>
                         <source src="http://clips.vorwaerts-gmbh.de/VfE_html5.mp4" type="video/mp4" />
@@ -29,6 +30,7 @@ export class Carousal extends React.Component{
                     </video>
                 </div>
             </div>
+          </div>
         );
     }
 

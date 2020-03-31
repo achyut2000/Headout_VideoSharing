@@ -1,25 +1,23 @@
-  .carousel{
-    display:flex;
-    flex-direction: column;
-    color:white;
-}
-
+  .carousel-header{
+    position: absolute;
+    top: 10%;
+    left: 43%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 63px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+  }
 
   .carousel-wrapper {
     display: flex;
     justify-content: space-between;
     max-height: 200px;
-  }
-
-  .carousel > .carousel-header{
-      font-family: Poppins;
-      font-style: normal;
-      font-weight: 600;
-      font-size: 42px;
-      line-height: 63px;
-      text-align: center;
-      align-items: center; 
-      color:white;
   }
   
   .item{
@@ -47,7 +45,7 @@
     object-fit: fill;
 }
 
-  .item:hover{
+  .item.active:hover{
       transition: all 300ms ease-in;
       transform : scale(2);
       z-index:3;
