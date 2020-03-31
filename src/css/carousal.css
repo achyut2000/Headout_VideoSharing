@@ -1,0 +1,54 @@
+  .carousel{
+    display:flex;
+    flex-direction: column;
+    color:white;
+}
+
+
+  .carousel-wrapper {
+    display: flex;
+    justify-content: space-between;
+    max-height: 200px;
+  }
+
+  .carousel > .carousel-header{
+      font-family: Poppins;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 42px;
+      line-height: 63px;
+      text-align: center;
+      align-items: center; 
+      color:white;
+  }
+  
+  .item{
+      width: 300px;
+      box-shadow: 0 8px 6px -6px black;
+      z-index: 1;
+      overflow: hidden;
+  }
+
+  .carousel-wrapper .item{
+    flex-basis: 32%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #CCC;
+    background-color: #FFF;
+  }
+  .carousel-wrapper .item.active{
+    transition: all 300ms ease-in-out;
+    transform: scale(1.2);
+    z-index:2;
+  }
+
+  .videoInsert {
+    object-fit: fill;
+}
+
+  .item:hover{
+      transition: all 300ms ease-in;
+      transform : scale(2);
+      z-index:3;
+  }
