@@ -24,3 +24,13 @@ The First View for the user asks him to explore / Join the Network if he scrolls
 
 ![alt text](https://raw.githubusercontent.com/achyut2000/Headout_VideoSharing/master/ShareVeo.jpg)
 
+### Framework Used: ReactJs: Easier to organise and containerize components.
+
+The Site is yet to be made mobile responsive, as it is just a minimal implementation of the mockup.
+
+### SITE LINK: https://apricot-cupcake-64394.herokuapp.com/
+
+### SCREENSHOTS ATTACHED AS PER REQUEST:
+
+
+
