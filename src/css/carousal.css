@@ -1,13 +1,18 @@
+  .carousel{
+        margin-top:-10%;
+        display:flex;
+        flex-direction: column;
+  }
+
   .carousel-header{
-    position: absolute;
-    top: 10%;
-    left: 43%;
+    margin-top: 20%;
+    position: relative;
     font-family: Poppins;
     font-style: normal;
     font-weight: 600;
     font-size: 42px;
     line-height: 63px;
-    display: flex;
+    flex-basis: 10%;
     align-items: center;
     text-align: center;
     
@@ -15,8 +20,9 @@
   }
 
   .carousel-wrapper {
+    padding-top:10%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     max-height: 200px;
   }
   
@@ -42,11 +48,13 @@
   }
 
   .videoInsert {
-    object-fit: fill;
+    height:100%;
+    width:100%;
+    object-fit:contain;
 }
 
   .item.active:hover{
       transition: all 300ms ease-in;
-      transform : scale(2);
+      transform : scale(2.25);
       z-index:3;
   }
