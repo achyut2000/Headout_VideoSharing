@@ -32,5 +32,6 @@ The Site is yet to be made mobile responsive, as it is just a minimal implementa
 
 ### SCREENSHOTS ATTACHED AS PER REQUEST:
 
-
-
+![alt text](https://raw.githubusercontent.com/achyut2000/Headout_VideoSharing/master/1.png)
+![alt text](https://raw.githubusercontent.com/achyut2000/Headout_VideoSharing/master/2.png)
+![alt text](https://raw.githubusercontent.com/achyut2000/Headout_VideoSharing/master/3.png)
