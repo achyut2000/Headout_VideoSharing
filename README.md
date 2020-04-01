@@ -1,68 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Headout_VideoSharing
 
-## Available Scripts
+Brainstorming is the first step to do before you get on with a project.
 
-In the project directory, you can run:
+One of the main success of a product comes from rememberance.
 
-### `npm start`
+First Step for Success:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> Creating a visual symbol that represents your Product. Some logos have powerful symbolic association connected to people's memory.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+> Hey! Do you know Dailymotion? Yahhhh!!! Thats right? I dont think you can remember them , it is because you dont remember their logos.
 
-### `npm test`
+Since it is a mockup project I came up with a name and logo. ( Just a placeholder , dont hold a grudge if it doesnt suit your taste)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Name: ShareVeo
+### Logo : ( We will see in the Landing page :D )
 
-### `npm run build`
+While developing the frontpage , I would like to mix the approach of a new upcoming site and also a much established one.
+( Tiktok and Youtube). Tiktok is a video sharing site. TikTok has a basic landing page that allows users to know what they are signing up for. As an upcoming site, People will be feel more comfortable to use the previously existing environment and we should smoothen them into ours.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Since I am going for a *Single Page* Demonstration , I would like to fit Tiktok's Landing Page with that of some Trending videos. I will explain the flow of my Design as and when possible.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+The First View for the user asks him to explore / Join the Network if he scrolls down it means that he didnt buy it , so the next step is the show him some of the hottest video and pursuade him to explore more thats what the first page is for.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![alt text](https://raw.githubusercontent.com/achyut2000/Headout_VideoSharing/master/ShareVeo.jpg)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
